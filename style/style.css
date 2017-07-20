@@ -1,0 +1,62 @@
+.colorBlack{
+    background-color: #333333!important;
+}
+
+.letterCollor{
+    color: #c0bab6;
+}
+.somePaddings{
+    margin-bottom: 40px;
+}
+
+.letterCollorTwo{
+    color: #979797;
+}
+.alignText {
+    text-align: right;
+}
+
+.seperate{
+    padding-top: 20px!important;
+    margin-bottom: 20px;
+}
+
+ul.list-inline.navbar-right li{
+    background-color: #232323;
+    padding: 8px 16px;
+    color: lightgray;
+}
+ul.list-inline.navbar-right li a{
+    color: white;
+}
+ul.list-inline.navbar-right{
+    margin-top:25px;
+    background-color: #232323;
+}
+
+div.container.col-lg-6 h5{
+    padding: 20px 0;
+}
+
+.veryOrange{
+    color: #ffa247;
+}
+
+div.container.col-lg-4 div.row h4{
+    color: #979797;
+    border-bottom: 1px solid #979797;
+    padding-bottom: 20px;
+}
+div.container.col-lg-4 div.row ul li a{
+    color: #666666;
+
+}
+div.container.col-lg-4 div.row ul li{
+    border-bottom: 1px dotted  #666666;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+div.container.col-lg-6.letterCollor h2{
+    margin-bottom: 0!important;
+
+}
